@@ -1,1 +1,1 @@
-Players.LocalPlayer:Kick("my mom said no")
+game.Players.LocalPlayer:Kick("my mom said no")
